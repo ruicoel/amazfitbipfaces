@@ -8,8 +8,12 @@ usuário: ruicoel
 
 Fontes e os arquivos finais armazenados 
 
-formato dos arquivos:
+formato e nome dos arquivos:
 
-+Arquivo proncipal (nome do whatsface)
-          +Fonte
-          +Arquivo Publicado
+
+​          
+
+| -[Nome do Arquivo Principal] |                                          |
+| ---------------------------- | ---------------------------------------- |
+|                              | -Arquivo Fonte                           |
+|                              | -Nome do Arquivo Final Publicado no site |
